@@ -1,0 +1,16 @@
+formations:
+  -
+    nom de formation: test
+    établissement: 1
+    date de début: 2
+    date de fin: 3
+    lieu: 1
+    contenu de formation: 2
+  -
+    nom de formation: test
+    établissement: 1
+    date de début: 2
+    date de fin: 3
+    lieu: 1
+    contenu de formation: 2
+cv: cv.pdf
