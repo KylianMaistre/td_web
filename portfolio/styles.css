@@ -1,0 +1,97 @@
+body{
+    background-color: black;
+    font-family: monospace;
+    color: white;
+}
+
+p{
+    font-size: 15px ;
+}
+h1{
+    background-image: url('./bg.gif');
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    text-align: center;
+    margin-top: 15%;
+    font-family: monospace;
+    font-size: 90px;
+}
+
+h2{
+    text-align: center;
+    font-size: 30px;
+}
+
+h3{
+    font-size: 25px;
+}
+
+.menu{
+    display: flex;
+    background-color: black;
+    justify-content: right
+}
+
+.menu li{
+    list-style-type: none ;       /* Suppression des puces */
+}
+
+.menu a{
+    display:block;                /* Transformation en block */
+    min-width: 120px;             /* Largeur minimale des liens */
+    
+    margin: 0.5rem;               /* Marges externes (1 valeurs = 4 directions) */
+    padding: 0.4rem 0;            /* Marges internes (2 valeurs = haut/bas et gauche/droite)*/
+    text-align: center;           /* Centrage du texte */   
+    background-color: black;    /* Couleur d'arrière-plan */
+    color: #ffe843;
+    text-decoration: none;        /* Suppression du soulignement */
+    border: 2.5px solid ghostwhite;       /* Ajout d'une bordure */
+    border-radius: 8px;           /* Arrondis des bordures */
+    transition: all 0.3s ;          /* Ajout des effets de transition */
+}
+
+.menu a:hover{
+    background-color: #ed2794;
+    color: #ffe843;
+    border-color: #ffe843;
+  }
+
+.menu a.actif{    
+    background-color: #000 ; 
+    color: #1ABC9C ;
+    border-color: #1ABC9C ;
+}
+.menu a:hover,
+.menu a:hover.actif{
+  background-color: #ed2794;
+  color: #ffe843;
+  border-color: #ffe843;
+}
+
+.container{
+    background-color: #ffe843;
+    width: 60%;
+    border-radius: 20px;
+}
+
+.skill{
+    background-color: #ed2794;
+    padding: 5px;
+    text-align: right;
+    font-size: 15px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: #ffe843;
+    color: #ffe843;
+    border-width: 4px
+}
+
+.linkedin{
+    width: 1.7cm;
+}
+
+.git{
+    width: 1cm;
+}
