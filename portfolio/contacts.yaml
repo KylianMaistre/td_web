@@ -1,8 +1,0 @@
-contacts:
-  -
-    nom de l'expéditeur: test
-    adresse de courriel de l’expéditeur: 1
-    objet du message: 2
-    contenu du message: 3
-    captcha pour éviter les robots: 1
-envoi d’un mail vers votre adresse: 
