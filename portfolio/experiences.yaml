@@ -1,0 +1,16 @@
+experiences:
+  -
+    poste: test
+    entreprise: 1
+    date de début: 2
+    date de fin: 3
+    lieu: 1
+    tâches réaliser: 2
+  -
+    poste: test
+    entreprise: 1
+    date de début: 2
+    date de fin: 3
+    lieu: 1
+    tâches réaliser: 2
+cv: cv.pdf
