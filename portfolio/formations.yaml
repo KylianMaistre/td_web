@@ -1,0 +1,28 @@
+formation1:
+  -
+    nom de formation: Brevet des collèges
+    contenu de formation: enseignements général
+    date de début: 2015
+    date de fin: 2019
+    établissement: Collège du Cingal
+    lieu: Bretteville-sur-Laize
+    
+formation2:
+  -
+    nom de formation:   Baccalauréats professionnels (MELEC)
+    contenu de formation: Enseignements professionnels
+    date de début: 2019
+    date de fin: 2022
+    établissement: Lycée polyvalent Guillaume le Conquérant
+    lieu: Falaise
+
+formation3:
+  -
+    nom de formation: Brevet de Technicien Supérieur (SIO)
+    contenu de formation: Enseignement supérieur
+    date de début: 2019
+    date de fin: 2022
+    établissement: CaenSup Sainte-Ursule
+    lieu: Caen
+    
+cv: cv.pdf
