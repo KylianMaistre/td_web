@@ -1,0 +1,16 @@
+formation1:
+  -
+    poste: Électricien tertiaire
+    entreprise: Masselin Tertiaire
+    lieu: Ifs
+    date: Mars/Avril 2022
+    tâches réaliser: installation et mise en service d'équipements électriques dans des bâtiments à usage domestique, tertiaire et industriel
+  
+formation2:
+  -
+    poste: Électricien industriel
+    entreprise: Erca
+    lieu: Falaise
+    date: sept/Oct 2021
+    tâches réaliser: installation et mise en service d'équipements électriques sur des machines de formage, dosage et scellage de pots de yaourt
+cv: cv.pdf

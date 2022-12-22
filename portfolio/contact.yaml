@@ -1,0 +1,8 @@
+contacts:
+  -
+    nom de l'expéditeur: 
+    adresse de courriel de l’expéditeur: 
+    objet du message:
+    contenu du message: 
+    captcha pour éviter les robots: 
+envoi d’un mail vers votre adresse: 
