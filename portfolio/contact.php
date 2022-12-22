@@ -9,7 +9,7 @@ $contact=yaml_parse_file("contact.yaml");
             <link href="styles.css" rel="stylesheet">
         </head>
         <body>
-            <div>
+            <div id="contact">
                 <?php 
                     foreach($contact['contacts'] AS $formulaire=>$tbContacts){
                         foreach($tbContacts AS $description=>$réponse){

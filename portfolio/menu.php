@@ -9,7 +9,7 @@ $menu=yaml_parse_file("menu.yaml")
             <link href="styles.css" rel="stylesheet">
         </head>
         <body>
-            <div id="wrap">
+            <div id="nav">
                 <ul class="menu">
                     <?php 
                         foreach($menu['menu'] AS $elt){

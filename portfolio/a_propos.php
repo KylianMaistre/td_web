@@ -9,7 +9,7 @@ $a_propos=yaml_parse_file("a_propos.yaml");
             <link href="styles.css" rel="stylesheet">
         </head>
         <body>
-            <div class="accroche">
+            <div id="apropos" class="accroche">
                 <?php echo'<h2>'.$a_propos['accroche'].'</h2>'?>
             </div>
             <div class="presentation">

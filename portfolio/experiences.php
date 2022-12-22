@@ -9,7 +9,7 @@ $formations=yaml_parse_file("experiences.yaml");
             <link href="styles.css" rel="stylesheet">
         </head>
         <body>
-            <div class="experiences">
+            <div id="experiences" class="experiences">
                 <h3>Expériences</h3>
                 <ul class="formation">
                     <?php 

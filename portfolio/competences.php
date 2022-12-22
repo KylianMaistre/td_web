@@ -9,7 +9,7 @@ $competences=yaml_parse_file("competences.yaml");
             <link href="styles.css" rel="stylesheet">
         </head>
         <body>
-            <div class="competences">
+            <div id="competences" class="competences">
                 <?php
                     foreach($competences AS $domaine=>$tbCompetences){
                         echo'<h3>'.$domaine.'</h3>';
